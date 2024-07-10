@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy Enzo, me dedico a crear aplicaciones web Backend. Me apasiona el mundo de la programación; paso horas pensando en proyectos e incorporando nuevas tecnologías a mi stack.
 
-https://img.freepik.com/vector-premium/codificacion-programacion-desarrollo-web-codigo-computadora-banner-futurista-computadora-portatil_3482-5582.jpg
+<img src="https://img.freepik.com/vector-premium/codificacion-programacion-desarrollo-web-codigo-computadora-banner-futurista-computadora-portatil_3482-5582.jpg" alt="banner">
 
 ## 🔭 Actualmente estoy trabajando en ...
 
