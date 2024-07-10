@@ -14,7 +14,7 @@ Un poco de muchas cosas. Estoy cursando la tecnicatura de Desarrollo de Software
 
 ## 💼 Mis proyectos destacados
 
-### ReviewFlix
+### ReviewFlix 🎬
 
 Proyecto final de fin de curso para el programa Codo a Codo. Implementación completa utilizando Django con manejo de sesiones, operaciones CRUD y API Admin.
 
@@ -26,7 +26,7 @@ Proyecto Ecommerce de ventas de productos para el hogar. Desarrollado con React 
 
 ![Tolito](url_imagen_proyecto_2.jpg)
 
-### LoveLink
+### LoveLink ❤️
 
 Red social con manejo de sesiones, chat con WebSocket, entre otras funcionalidades.
 
