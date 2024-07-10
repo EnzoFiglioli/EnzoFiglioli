@@ -14,17 +14,23 @@ Un poco de muchas cosas. Estoy cursando la tecnicatura de Desarrollo de Software
 
 ## 💼 Mis proyectos destacados
 
-### [Nombre del Proyecto 1](enlace_al_proyecto_1)
+### ReviewFlix
 
-Breve descripción del proyecto 1.
+Proyecto final de fin de curso para el programa Codo a Codo. Implementación completa utilizando Django con manejo de sesiones, operaciones CRUD y API Admin.
 
-![Imagen del Proyecto 1](url_imagen_proyecto_1.jpg)
+![ReviewFlix](https://github.com/EnzoFiglioli/EnzoFiglioli/assets/105600952/5064e549-aa54-45df-b8a2-0c34ef6d5982)
 
-### [Nombre del Proyecto 2](enlace_al_proyecto_2)
+### Tolito 🛒
 
-Breve descripción del proyecto 2.
+Proyecto Ecommerce de ventas de productos para el hogar. Desarrollado con React y backend para mejorar la escalabilidad y experiencia del usuario.
 
-![Imagen del Proyecto 2](url_imagen_proyecto_2.jpg)
+![Tolito](url_imagen_proyecto_2.jpg)
+
+### LoveLink
+
+Red social con manejo de sesiones, chat con WebSocket, entre otras funcionalidades.
+
+![LoveLink](url_imagen_proyecto_3.jpg)
 
 ## 💬 Pregúntame sobre ...
 
@@ -34,9 +40,8 @@ Breve descripción del proyecto 2.
 
 ## 📫 Cómo contactarme ...
 
-- Email: tu@email.com
-- LinkedIn: [enlace a tu perfil](https://www.linkedin.com/tu_perfil)
-- Twitter: [enlace a tu perfil](https://www.twitter.com/tu_usuario)
+- Email: enzofiglioli.p@gmail.com
+- LinkedIn: [enlace a tu perfil](https://www.linkedin.com/in/enzo-figlioli/)
 
 ## 😄 Pronombres: ...
 
