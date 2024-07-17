@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQG6VIsYhZDCQA/profile-displaybackgroundimage-shrink_350_1400/0/1686773069795?e=1726704000&v=beta&t=swhK3hKDkaUofmQB3D-8SHUsqYAsFULzaKwMCUYMNt0" alt="banner">
+![Banner Para LinkedIn Desarrollador De Software Moderno Negro](https://github.com/user-attachments/assets/a59d040b-b13b-42c3-a7f2-8b29de68f9fd)
+
 
 # ¡Hola a todos, Soy Enzo Figlioli! 👋
 
