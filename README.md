@@ -7,6 +7,11 @@
 - 📚 <b>¿Que estudio?:</b> Desarrollo web Backend y QA Testing. A su vez estoy cursando el primer cuatrimestre de la tecnicatura en desarrollo de software. (El conocimiento es poder)
 - 🎓 Algunos de mis proyectos en este corto pero apasionante recorrido:
 
+## ⚡<b>Hobbies y/o otros datos sobre mi</b>:
+- Me encanta la música, en mis ratos libres suelo crear y grabar con Fl Studio mis propias canciones.
+- Me gusta mucho el cine, mi director favorito es David Fincher. También soy muy fanatico de las sitcoms.
+- Pese a no jugarlos con frecuencia, me gustaria programar mi propio videojuego.
+
 ## 📫 Podés contactarme ...
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/enzo-figlioli/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enzofiglioli.p@gmail.com?subject=Hola%20Enzo,%20Vengo%20de%20Github%20) &nbsp;
@@ -31,8 +36,3 @@ Proyecto Ecommerce de ventas de productos para el hogar. Desarrollado con React 
 Red social con manejo de sesiones, chat con WebSocket, entre otras funcionalidades.
 
 ![LoveLink](url_imagen_proyecto_3.jpg)
-
-## ⚡<b>Hobbies y/o otros datos sobre mi</b>:
-- Me encanta la música, en mis ratos libres suelo crear y grabar con Fl Studio mis propias canciones.
-- Me gusta mucho el cine, mi director favorito es David Fincher. También soy muy fanatico de las sitcoms.
-- Pese a no jugarlos con frecuencia, me gustaria programar mi propio videojuego.
