@@ -12,27 +12,31 @@
 - Me gusta mucho el cine, mi director favorito es David Fincher. También soy muy fanatico de las sitcoms.
 - Pese a no jugarlos con frecuencia, me gustaria programar mi propio videojuego.
 
-## 📫 Podés contactarme ...
+## 📫 Podés contactarme por:
+>Si deseas contactarme para trabajar juntos lo podés hacer por los siguientes medios
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/enzo-figlioli/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enzofiglioli.p@gmail.com?subject=Hola%20Enzo,%20Vengo%20de%20Github%20) &nbsp;
 [![Discord](https://skillicons.dev/icons?i=discord)]("EnzoFiglioli#1805")&nbsp;
 
-### 📄 Curriculum Vitae
+## 📄 Curriculum Vitae
 - Podrás verlo por 👉[acá](https://github.com/user-attachments/files/16268165/CV.-.FullStack.pdf) 👈
+
+## 📫 Algunos de mis proyectos...
+
 ### ReviewFlix 🎬
 
-Proyecto final de fin de curso para el programa Codo a Codo. Implementación completa utilizando Django con manejo de sesiones, operaciones CRUD y API Admin.
-![ReviewFlix](https://github.com/EnzoFiglioli/EnzoFiglioli/assets/105600952/5064e549-aa54-45df-b8a2-0c34ef6d5982)
-<b>Tecnologias:</b> Django - SQLite - Bootstrap - Motor de plantilla de Django 
+>Proyecto final de fin de curso para el programa Codo a Codo. Implementación completa utilizando Django con manejo de sesiones, operaciones CRUD y API Admin.
+>![ReviewFlix](https://github.com/EnzoFiglioli/EnzoFiglioli/assets/105600952/5064e549-aa54-45df-b8a2-0c34ef6d5982)
+><b>Tecnologias:</b> Django - SQLite - Bootstrap - Motor de plantilla de Django 
 
 ### Tolito 🛒
 
 Proyecto Ecommerce de ventas de productos para el hogar. Desarrollado con React y backend para mejorar la escalabilidad y experiencia del usuario.
 
-![Tolito](url_imagen_proyecto_2.jpg)
+![Tolito](https://github.com/EnzoFiglioli/EnzoFiglioli/assets/105600952/5064e549-aa54-45df-b8a2-0c34ef6d5982)
 
 ### LoveLink ❤️
 
-Red social con manejo de sesiones, chat con WebSocket, entre otras funcionalidades.
+>Red social con manejo de sesiones, chat con WebSocket, entre otras funcionalidades.
 
-![LoveLink](url_imagen_proyecto_3.jpg)
+>![LoveLink](https://github.com/EnzoFiglioli/EnzoFiglioli/assets/105600952/5064e549-aa54-45df-b8a2-0c34ef6d5982)
