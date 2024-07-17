@@ -2,14 +2,19 @@
 
 
 # ¡Hola a todos, Soy Enzo Figlioli! 👋
+- >💻<b>¿Backend o Frontend?:</b> Soy Desarrollador web Backend, aunque tengo conocimientos en tecnologias de front como React.
+- >💼 <b>¿De que trabajo?:</b> soy Freelancer, buscando proyectos donde pueda aportar valor e incorporar nuevos conocimientos en esta área que tanto amo.
+- >📚 <b>¿Que estudio?:</b> Desarrollo web Backend y QA Testing. A su vez estoy cursando el primer cuatrimestre de la tecnicatura en desarrollo de software. (El conocimiento es poder)
+- >🎓 Algunos de mis proyectos en este corto pero apasionante recorrido:
 
-¡Bienvenido a mi perfil de GitHub! Soy Enzo, me dedico a crear aplicaciones web Backend. Me apasiona el mundo de la programación; paso horas pensando en proyectos e incorporando nuevas tecnologías a mi stack.
+## 📫 Podés contactarme ...
 
-- 🔭 Actualmente estoy trabajando de forma Freelancer, buscando proyectos donde pueda aportar valor e incorporar nuevos conocimientos en esta área que tanto amo.
-
-- 🌱 Actualmente estoy aprendiendo un poco de muchas cosas. Estoy cursando la tecnicatura de Desarrollo de Software y también estoy completando la segunda parte de dos diplomaturas: desarrollo web backend y QA testing.
-
-- 💼 Mis proyectos destacados
+- Email: enzofiglioli.p@gmail.com
+- <div>
+  
+</div>
+- <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin" width:20px height:20px> [enlace a tu perfil](https://www.linkedin.com/in/enzo-figlioli/)
+- 
 
 ### ReviewFlix 🎬
 
@@ -28,21 +33,6 @@ Proyecto Ecommerce de ventas de productos para el hogar. Desarrollado con React 
 Red social con manejo de sesiones, chat con WebSocket, entre otras funcionalidades.
 
 ![LoveLink](url_imagen_proyecto_3.jpg)
-
-## 💬 Pregúntame sobre ...
-
-- Desarrollo web backend
-- Tecnologías de bases de datos
-- Mejores prácticas en programación
-
-## 📫 Cómo contactarme ...
-
-- Email: enzofiglioli.p@gmail.com
-- LinkedIn: [enlace a tu perfil](https://www.linkedin.com/in/enzo-figlioli/)
-
-## 😄 Pronombres: ...
-
-[Opcional: comparte tus pronombres preferidos si te sientes cómodo haciéndolo.]
 
 ## ⚡ Dato curioso: ...
 
