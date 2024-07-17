@@ -8,13 +8,11 @@
 - >🎓 Algunos de mis proyectos en este corto pero apasionante recorrido:
 
 ## 📫 Podés contactarme ...
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/enzo-figlioli/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enzofiglioli.p@gmail.com?subject=Hola%20Enzo,%20Vengo%20de%20Github%20) &nbsp;
+[![Discord(EnzoFiglioli#1805)](https://skillicons.dev/icons?i=discord)] &nbsp;
 
-- Email: enzofiglioli.p@gmail.com
-- <div>
-  
-</div>
-- <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin" width:20px height:20px> [enlace a tu perfil](https://www.linkedin.com/in/enzo-figlioli/)
-- 
+### 📄 Curriculum Vitae
 
 ### ReviewFlix 🎬
 
