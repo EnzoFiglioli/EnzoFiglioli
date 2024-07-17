@@ -1,8 +1,8 @@
+<img src="https://media.licdn.com/dms/image/D4D16AQG6VIsYhZDCQA/profile-displaybackgroundimage-shrink_350_1400/0/1686773069795?e=1726704000&v=beta&t=swhK3hKDkaUofmQB3D-8SHUsqYAsFULzaKwMCUYMNt0" alt="banner">
+
 # ¡Hola a todos, Soy Enzo Figlioli! 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy Enzo, me dedico a crear aplicaciones web Backend. Me apasiona el mundo de la programación; paso horas pensando en proyectos e incorporando nuevas tecnologías a mi stack.
-
-<img src="https://static.vecteezy.com/system/resources/previews/002/127/337/non_2x/isometric-laptop-analysis-information-futuristic-concept-vector.jpg" alt="banner">
 
 - 🔭 Actualmente estoy trabajando de forma Freelancer, buscando proyectos donde pueda aportar valor e incorporar nuevos conocimientos en esta área que tanto amo.
 
