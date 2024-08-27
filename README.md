@@ -1,3 +1,4 @@
+![Banner Para LinkedIn Desarrollador De Software Moderno Negro](https://github.com/user-attachments/assets/a59d040b-b13b-42c3-a7f2-8b29de68f9fd)
 # ¡Hola a todos, soy Enzo Figlioli! 👋
 
 💻 **¿Backend o Frontend?**: Soy Desarrollador Web Backend, aunque tengo conocimientos en tecnologías de frontend como React.
