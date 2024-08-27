@@ -51,7 +51,8 @@ Podés verlo por 👉[acá](https://github.com/user-attachments/files/16268165/C
 
 > Proyecto Ecommerce de ventas de productos para el hogar. Desarrollado con React y un backend robusto para mejorar la escalabilidad y experiencia del usuario.
 > 
-> ![Tolito](https://github.com/EnzoFiglioli/EnzoFiglioli/assets/105600952/5064e549-aa54-45df-b8a2-0c34ef6d5982)
+> ![Tolito](https://github.com/user-attachments/assets/ac9a23da-1071-440f-85f9-c2f8cab10e2e)
+
 
 ---
 
