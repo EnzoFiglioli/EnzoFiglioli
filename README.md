@@ -60,4 +60,5 @@ Podés verlo por 👉[acá](https://github.com/user-attachments/files/16268165/C
 
 > Red social con manejo de sesiones, chat con WebSocket, entre otras funcionalidades.
 > 
-> ![LoveLink](https://github.com/EnzoFiglioli/EnzoFiglioli/assets/105600952/5064e549-aa54-45df-b8a2-0c34ef6d5982)
+> ![LoveLink](https://github.com/user-attachments/assets/a2434fb7-fd9e-4ef2-a83f-5b267c7e1a09)
+
