@@ -1,3 +1,4 @@
+![Banner Para LinkedIn Desarrollador De Software Moderno Negro](https://github.com/user-attachments/assets/a59d040b-b13b-42c3-a7f2-8b29de68f9fd)
 <h1 align="center">Hola 👋, soy Enzo Figlioli</h1>
 <h3 align="center">Un apasionado desarrollador web FullStack</h3>
 
@@ -5,6 +6,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+Si deseas contactarme para trabajar juntos, lo podés hacer por los siguientes medios:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/enzo-figlioli/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enzofiglioli.p@gmail.com?subject=Hola%20Enzo,%20Vengo%20de%20Github%20) &nbsp;
+[![Discord](https://skillicons.dev/icons?i=discord)]("EnzoFiglioli#1805")&nbsp;
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
