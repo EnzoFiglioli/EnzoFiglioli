@@ -83,30 +83,33 @@ Red social con manejo de sesiones, chat con WebSocket, entre otras funcionalidad
 > 
 > (Node.js, Express, Mongodb)
 ---
+## 💼 Resumen Profesional:
 
-## Resumen Profesional:
-
-### Desarrollador Full Stack | Desarrollador Web Junior  
-Soy un Desarrollador Full Stack con una sólida base en desarrollo web y experiencia práctica en la creación de proyectos usando tecnologías modernas. Competente en HTML, CSS, JavaScript, React, Node.js, MongoDB y MySQL. Estoy en constante aprendizaje y mejora a través de proyectos personales, cursos en línea y participación en la comunidad. Mi enfoque está en desarrollar aplicaciones web eficientes y fáciles de usar, mientras me esfuerzo por aportar a proyectos en equipo en el área del desarrollo.
+### 👨‍💻 Desarrollador Full Stack | Desarrollador Web Junior  
+Soy un Desarrollador Full Stack con una sólida base en desarrollo web y experiencia práctica en la creación de proyectos usando tecnologías modernas. Competente en **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **MongoDB** y **MySQL**. Estoy en constante aprendizaje y mejora a través de proyectos personales, cursos en línea y participación en la comunidad. Mi enfoque está en desarrollar aplicaciones web eficientes y fáciles de usar, mientras me esfuerzo por aportar a proyectos en equipo en el área del desarrollo. 🚀
 
 ---
 
-### Experiencia Laboral:
+## 💼 Experiencia Laboral:
 
-#### Freelance | 2023 – Presente  
-- Realicé proyectos freelance creando sitios web y aplicaciones web personales.
-- Me enfoqué en el desarrollo tanto del front-end (HTML, CSS, JavaScript, React) como del back-end (Node.js, Express, MongoDB).
-- Trabajé en varios proyectos personales y a pequeña escala para ganar experiencia práctica.
-- Gestioné los plazos de los proyectos y aseguré su finalización en los tiempos establecidos.
+#### 🎯 Freelance | 2023 – Presente  
+- 💻 Realicé proyectos freelance creando sitios web y aplicaciones web personales.
+- 🔧 Me enfoqué en el desarrollo tanto del **front-end** (HTML, CSS, JavaScript, React) como del **back-end** (Node.js, Express, MongoDB).
+- 📊 Trabajé en varios proyectos personales y a pequeña escala para ganar experiencia práctica.
+- ⏱️ Gestioné los plazos de los proyectos y aseguré su finalización en los tiempos establecidos.
 
-## Educación:
+---
 
-- **Tecnico Desarrollador de Software** | Instituto Formación Técnica Superior N°29 | 2024 – 2026 (Graduación esperada)
+## 🎓 Educación:
 
-## Cursos y Certificaciones:
+- **👨‍🎓 Técnico Desarrollador de Software** | Instituto Formación Técnica Superior N°29 | 2024 – 2026 (Graduación esperada) 🎓
 
-- **Diplomatura Backend Web Developer** | UNTREF, 2024
-- **FullStack Web Developer Python** | Codo a Codo 4.0, 2023
+---
+
+## 📜 Cursos y Certificaciones:
+
+- **💻 Diplomatura Backend Web Developer** | UNTREF, 2024  
+- **🌐 FullStack Web Developer Python** | Codo a Codo 4.0, 2023  
 
 ---
 
