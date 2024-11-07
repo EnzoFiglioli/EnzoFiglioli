@@ -13,7 +13,7 @@
 
 ## 📬 Contáctame:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/enzofiglioli) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/enzo-figlioli/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enzofiglioli.p@gmail.com?subject=Hola%Enzo,%Vengo%de%20Github) &nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/enzo.figlioli) &nbsp;
 
