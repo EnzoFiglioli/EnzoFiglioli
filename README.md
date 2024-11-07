@@ -1,4 +1,5 @@
-![Banner Para LinkedIn Desarrollador De Software Moderno Negro](https://github.com/user-attachments/assets/78a6cff1-d6b8-491c-8f3e-aa736fd3fe90)
+![Banner Para LinkedIn Desarrollador De Software Moderno Negro](https://github.com/user-attachments/assets/b07448a0-5017-44dc-aa61-50ae767c5df0)
+
 
 # Hola soy Enzo Figlioli 👋
 ### FullStack Web Developer
