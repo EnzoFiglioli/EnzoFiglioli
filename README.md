@@ -3,13 +3,14 @@
 <h3 align="center">Un apasionado desarrollador web FullStack</h3>
 
 - 🔭 Actualmente me encuentro trabajando **de manera freelance**
-
-
-<h3 align="left">Connect with me:</h3>
+<div>
+  <h3 align="left">Connect with me:</h3>
 <p align="left">Si deseas contactarme para trabajar juntos, lo podés hacer por los siguientes medios:</p>
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/enzo-figlioli/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enzofiglioli.p@gmail.com?subject=Hola%20Enzo,%20Vengo%20de%20Github%20) &nbsp;
-[![Discord](https://skillicons.dev/icons?i=discord)]("EnzoFiglioli#1805")&nbsp;
+</div>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/enzo-figlioli/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enzofiglioli.p@gmail.com?subject=Hola%20Enzo,%20Vengo%20de%20Github%20)
+[![Discord](https://skillicons.dev/icons?i=discord)]("EnzoFiglioli#1805")
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <h4>Frontend</h4>
