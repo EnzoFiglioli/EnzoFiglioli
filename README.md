@@ -28,7 +28,11 @@
 
 ### ⚙️ Backend Development
 
-![Backend Technologies](https://skillicons.dev/icons?i=ts,nodejs,express,python,django,flask,java,spring,cs)
+![Backend Technologies](https://skillicons.dev/icons?i=ts,nodejs,express,python,django,flask)
+
+### 🖥️ Desarrollo de Escritorio
+<img src="https://skillicons.dev/icons?i=cs" height="40px" /> <img src="https://github.com/user-attachments/assets/ed3f93a3-4759-4b1b-860c-f37006d6f8da" height="40px" alt="WinForms" title="WinForms" />
+
 
 ### 🌳 Control de Versiones
 
@@ -44,7 +48,7 @@
 
 ### 🛠️ Herramientas de Desarrollo
 
-![Development Tools](https://skillicons.dev/icons?i=vscode,idea,maven,md,notion,npm,pnpm)
+![Development Tools](https://skillicons.dev/icons?i=vscode,visualstudio,md,notion,npm,pnpm)
 
 ---
 
