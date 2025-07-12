@@ -28,7 +28,7 @@
 
 ### ⚙️ Backend Development
 
-![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring)
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,csharp)
 
 ### 🌳 Control de Versiones
 
