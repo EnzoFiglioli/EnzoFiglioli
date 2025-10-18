@@ -112,7 +112,8 @@ Soy un Desarrollador Full Stack con una sólida base en desarrollo web y experie
 ---
 
 ## 📜 Cursos y Certificaciones:
-
+- **🔐 Ciberserguridad** | IBM SkillsBuild, 2025
+- **💽 FullStack Web Developer** | University Helsinki, 2025 
 - **💻 Diplomatura Backend Web Developer** | UNTREF, 2024  
 - **🌐 FullStack Web Developer Python** | Codo a Codo 4.0, 2023  
 
