@@ -2,7 +2,7 @@
 
 
 # Hola soy Enzo Figlioli 👋
-### FullStack Web Developer
+### Backend Developer | Node.js · Express · MySQL · Docker
 
 - 🔭 Actualmente, me encuentro desarrollando mis habilidades como programador de manera autodidacta y a través de proyectos personales.
 - 💼 **Rol Actual:** Desarrollador Full Stack Junior, con especial interés en aprender y mejorar en tecnologías frontend y backend.
