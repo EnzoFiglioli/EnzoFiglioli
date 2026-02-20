@@ -32,6 +32,7 @@ API REST con autenticación JWT, relaciones N:M y deploy en Vercel.
 
 ### 🔹 Fragancias LP – Catálogo con carrito
 Backend con NestJS, Prisma y PostgreSQL. Frontend con React y Redux.
+👉 https://fraganciaslp.vercel.app/
 
 ### 🔹 Patitas Sucias – Gestión veterinaria
 App de escritorio con C#, WinForms y MySQL.
@@ -52,3 +53,4 @@ Repositorios mejor calificados de GitHub. React Native + Apollo + GraphQL.
 ## 📬 Contacto
 - LinkedIn: https://www.linkedin.com/in/enzo-figlioli/
 - Email: enzofiglioli.p@gmail.com
+- Porfolio: 👉 [aquí](https://enzo-figlioli.vercel.app/)
