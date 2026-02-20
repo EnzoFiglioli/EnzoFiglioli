@@ -1,80 +1,54 @@
 ![Banner](https://github.com/user-attachments/assets/b07448a0-5017-44dc-aa61-50ae767c5df0)
 
 # Enzo Figlioli
-### Backend Developer | Node.js · Express · MySQL · Docker
+### Backend Developer | Node.js · NestJS · PostgreSQL · Docker
 
-Desarrollador enfocado en backend con experiencia construyendo APIs REST, sistemas de autenticación con JWT y aplicaciones full-stack con React.
-
-Actualmente estudio la Tecnicatura en Desarrollo de Software y continúo formándome en arquitectura backend y contenedores con Docker.
+Desarrollador enfocado en backend con experiencia construyendo APIs REST, autenticación con JWT y aplicaciones full-stack. Actualmente estudio la Tecnicatura en Desarrollo de Software y me estoy especializando en arquitectura backend con NestJS y Docker.
 
 ---
 
 ## 🛠 Stack Principal
 
 **Backend**
-- Node.js
-- Express
-- Sequelize
-- MySQL
-- JWT
-- Docker (en formación)
+- Node.js · Express · NestJS
+- Prisma ORM · Sequelize
+- MySQL · PostgreSQL · MongoDB
+- JWT · Docker
 
 **Frontend**
-- React
-- Tailwind CSS
-- Axios
+- React · React Native
+- TypeScript · Tailwind CSS
 
 **Herramientas**
-- Git & GitHub
-- Postman
-- VS Code
-- Linux
+- Git & GitHub · Linux · Postman
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 🔹 Tabl3ro – Aplicación de Microblogging
-Aplicación full-stack inspirada en Twitter.
-
-- API REST con autenticación JWT
-- Relaciones N:M (seguidores)
-- Persistencia en MySQL con Sequelize
-- Deploy funcional en Vercel
-
+### 🔹 Tabl3ro – Microblogging App
+API REST con autenticación JWT, relaciones N:M y deploy en Vercel.
 👉 https://tabl3ro.vercel.app/
 
----
+### 🔹 Fragancias LP – Catálogo con carrito
+Backend con NestJS, Prisma y PostgreSQL. Frontend con React y Redux.
 
-### 🔹 Tolito – Ecommerce
-Backend escalable para tienda online.
+### 🔹 Patitas Sucias – Gestión veterinaria
+App de escritorio con C#, WinForms y MySQL.
 
-- CRUD completo de productos
-- Gestión de usuarios
-- Arquitectura Express + MySQL
-- Modelado relacional
-
----
-
-### 🔹 LoveLink – Red Social
-Aplicación social con comunicación en tiempo real.
-
-- WebSockets
-- Manejo de sesiones
-- Arquitectura modular en Express
+### 🔹 Rate Repository App – App mobile
+Repositorios mejor calificados de GitHub. React Native + Apollo + GraphQL.
 
 ---
 
 ## 🎓 Formación
-
-- Tecnicatura en Desarrollo de Software (En curso)
-- Diplomatura Backend Web Developer – UNTREF
+- Tecnicatura en Desarrollo de Software (en curso)
 - Full Stack Open – University of Helsinki
-- Codo a Codo 4.0 – Full Stack Python
+- Diplomatura Backend – UNTREF
+- Codo a Codo 4.0
 
 ---
 
 ## 📬 Contacto
-
 - LinkedIn: https://www.linkedin.com/in/enzo-figlioli/
 - Email: enzofiglioli.p@gmail.com
