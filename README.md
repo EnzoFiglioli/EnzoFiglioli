@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/b07448a0-5017-44dc-aa61-50ae767c5df0)
+![Banner](https://github.com/user-attachments/assets/f4d91716-4aa7-4c91-8fce-793189df0408)
 
 # Enzo Figlioli
 ### Backend Developer | Node.js · NestJS · PostgreSQL · Docker
