@@ -1,9 +1,9 @@
 ![Banner](https://github.com/user-attachments/assets/f4d91716-4aa7-4c91-8fce-793189df0408)
 
 # Enzo Figlioli
-### Backend Developer | Node.js · NestJS · PostgreSQL · Docker
+### FullStack Developer | Node.js · NestJS · PostgreSQL · Docker
 
-Desarrollador enfocado en backend con experiencia construyendo APIs REST, autenticación con JWT y aplicaciones full-stack. Actualmente estudio la Tecnicatura en Desarrollo de Software y me estoy especializando en arquitectura backend con NestJS y Docker.
+Desarrollador fullstack con foco en construir aplicaciones de punta a punta — frontend con React, backend con Node.js/NestJS, APIs REST y autenticación con JWT. Actualmente cursando la Tecnicatura en Desarrollo de Software y profundizando en arquitectura backend con NestJS y Docker.
 
 ---
 
